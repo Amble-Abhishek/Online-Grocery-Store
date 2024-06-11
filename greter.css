@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+	background-color:skyblue;
+	font-family:comic sans ms;
+}
+h1{
+	padding-top:25px;
+}
+#d1{
+	
+	height:150px;
+	background-color:white;
+	text-align:center;
+}#d2{
+	height:60px;
+	width:250px;
+	border: 5px black solid;
+	text-align:center;
+}
